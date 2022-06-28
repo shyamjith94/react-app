@@ -4,6 +4,7 @@ import Create from "./componets/Create";
 import BlogDetails from "./componets/BlogDatils";
 import NotFound from "./componets/Notfound";
 
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
